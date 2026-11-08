@@ -30,13 +30,13 @@ OctoFit Tracker is a three-tier application for a school fitness program. The st
 
 Record your plan here before editing code.
 
-- Presentation tier decision: ???
-- Logic tier decision: ???
-- Data tier decision: ???
-- Activity tracking approach: ???
-- Team management approach: ???
-- Leaderboard approach: ???
-- Workout suggestions approach: ???
+- Presentation tier decision: Fix the bugs
+- Logic tier decision: Fix the bugs
+- Data tier decision: Fix the bugs
+- Activity tracking approach: Fix the bugs
+- Team management approach: Fix the bugs
+- Leaderboard approach: Fix the bugs
+- Workout suggestions approach: Fix the bugs
 
 ## Test plan
 
